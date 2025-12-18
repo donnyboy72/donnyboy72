@@ -8,7 +8,7 @@ Studying to be a software engineer. I am a US Navy veteran, where I served 5 yea
 
 * 🌍  I'm based in Charleston, SC
 * ✉️  You can contact me at [donavanwatley@yahoo.com](mailto:donavanwatley@yahoo.com)
-* 🧠  I'm currently learning object-oriented programming, data structures and algorithms. I'm a part of College of Charleston Undergrad Research team Universal Design and Engineering Lab(UDEL). Our goal is to find a way to hel those with disabilities by using AI. 
+* 🧠  I'm currently learning object-oriented programming, data structures and algorithms. I'm a part of College of Charleston Undergrad Research team Universal Design and Engineering Lab(UDEL). Our goal is to find a way to help those with disabilities by using AI. 
 * 💬  I hold a secret clearance until May 2029
 
 <p align="left">
