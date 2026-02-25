@@ -7,7 +7,7 @@ College of Charleston
 Studying to be a software engineer. I am a US Navy veteran, where I served 5 years honorable. In my time I handled cyber security at a national level. I hope to be a Full-Stack developer.
 
 * 🌍  I'm based in Charleston, SC
-* ✉️  You can contact me at [donavanwatley@yahoo.com](mailto:donavanwatley@yahoo.com)
+* ✉️  You can contact me at [dwatleyjobs@outlook.com](mailto:dwatleyjobs@outlook.com)
 * 🧠  I'm currently learning object-oriented programming, data structures and algorithms. I'm a part of College of Charleston Undergrad Research team Universal Design and Engineering Lab(UDEL). Our goal is to find a way to help those with disabilities by using AI. 
 * 💬  I hold a secret clearance until May 2029
 
