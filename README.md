@@ -1,6 +1,6 @@
 Hi, I'm Donavan 👋
 
-Computer Science student focused on software development and algorithms.
+SWE student focused on software development and algorithms.
 
 Current Interests
 - Java development
