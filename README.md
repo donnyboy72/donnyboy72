@@ -3,10 +3,10 @@ Hi, I'm Donavan 👋
 SWE student focused on software development and algorithms.
 
 Current Interests
+- Machine Learning and AI
+- Networking
 - Rust development
-- Java development
-- Game development
-- Data structures and algorithms
+- Python development
 
 
 Projects
