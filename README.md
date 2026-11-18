@@ -2,7 +2,7 @@
 
 **Software engineering student · Applied AI minor · U.S. Navy veteran**
 
-I build software for problems where data, hardware, and people need to work together. At OmniSight, I work with radar systems and Linux. At the College of Charleston, I’m pursuing a B.S. in Software Engineering, expected May 2028, and studying applied AI with a focus on Python, model evaluation, and computer vision.
+I build software for problems where data, hardware, and people need to work together. At my current company, I work with radar systems and Linux. At the College of Charleston, I’m pursuing a B.S. in Software Engineering, expected May 2028, and studying applied AI with a focus on Python, model evaluation, and computer vision.
 
 [Portfolio and AI Lab](https://donnyboy72.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/donavanwatley/)
 
