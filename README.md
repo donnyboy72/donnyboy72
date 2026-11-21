@@ -10,10 +10,10 @@ I build software for problems where data, hardware, and people need to work toge
 
 | Project | What I built |
 | --- | --- |
+| [Fridge2Fork](https://github.com/donnyboy72/Fridge2Fork) | Team-built iOS prototype that detects ingredients in refrigerator photos with YOLO and Core ML, lets users correct the inventory, and retrieves recipes through a Python FastAPI service. |
 | [wandLink](https://github.com/donnyboy72/wandLink) | An applied ML project that turns gestures from a Kano wand into macOS controls. |
 | [Traveling Salesman Visualizer](https://github.com/donnyboy72/tsp-algorithm-visualizer) | A Python visualizer that compares five route-planning algorithms with animated maps and convergence charts. |
-| [Home Field](https://github.com/donnyboy72/home-Field) | A local-first desktop app for assigning work, tracking progress, and collaborating without depending on a cloud service. In development. |
-| [jrDev](https://github.com/donnyboy72/Junior-Dev-to-Pro) | An interactive learning site for Git, debugging, and the workflows developers use on teams. [Try the site](https://donnyboy72.github.io/Junior-Dev-to-Pro/). |
+| [Home Field](https://github.com/donnyboy72/home-Field) | A local-first desktop app for assigning work, tracking progress, and collaborating without depending on a cloud service. **Complete.** |
 | [True Memory Game](https://github.com/donnyboy72/TrueMemoryGame) | A memory game built for a research project exploring AI and cognitive rehabilitation. |
 
 ## What I work with
